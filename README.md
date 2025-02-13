@@ -1,4 +1,5 @@
- <br />
+<title>Github cca lab</title>
+<br />
 <p align="center">
   <a href="https://qxresearch.github.io/qxresearch-event-1">
     <img src="https://github.com/xiaowuc2/ChatGPT-Python-Applications/blob/main/resource/10lines3.gif" alt="Logo">
